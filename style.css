@@ -640,7 +640,20 @@ main {
   transform: scale(1.25);
 }
 
+
+
+
+
+
+
 /* MEDIA QUERIES */
+/* MEDIA QUERIES */
+/* MEDIA QUERIES */
+/* MEDIA QUERIES */
+
+
+
+
 
 @media (max-width: 1500px) {
   main {
@@ -924,6 +937,12 @@ main {
   .song {
     grid-template-columns: 25% auto 8%;
   }
+  audio {
+    width: 100px;
+  }
+
+  
+  
 }
 
 
@@ -1169,6 +1188,9 @@ main {
   padding: 12px 0 20px;
   overflow: hidden;
   font-family: inherit;} */
+
+  
+  
   
   
   
@@ -1184,8 +1206,6 @@ main {
 
 
 
-
-}
 
 
 
