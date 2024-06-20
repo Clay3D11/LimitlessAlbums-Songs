@@ -356,7 +356,7 @@ main {
 .album {
   display: grid;
   grid-auto-flow: dense;
-  grid-template-rows: 5fr 2fr;
+  grid-template-rows: 5fr 0fr;
   user-select: none;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -434,14 +434,14 @@ main {
 
 /* RIGHT CONTENT */
 
-.right-content {
+/* .right-content {
   display: grid;
   grid-template-rows: 60% 40%;
   border-radius: 0 15px 15px 0;
   border-left: 1px solid rgba(255, 255, 255, 0.5);
   padding: 30px 20px;
   color: #e5e5e5;
-}
+} */
 
 /* SONGS */
 
@@ -1198,6 +1198,19 @@ main {
 
 
 
+}
+
+
+
+
+/* Playlist */
+/* Playlist */
+/* Playlist */
+
+
+audio {
+  width: 100px;
+  height: 40px;
 }
 
 
